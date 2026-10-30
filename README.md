@@ -6,7 +6,11 @@ This project serves as a foundational analytics booster, establishing core compe
 
 Key Business Goals:Data Structuring & Cleanliness: Standardize transaction records with accurate unit pricing and dynamic volume multiplication.Profitability Insights: Calculate line-item margins and examine revenue distribution per product line.Customer Identification: Track repeat buyers and spending levels across retail outlets.Visual Summary: Deliver clean executive charts to communicate key commercial metrics quickly.
 
-🚀 Key Performance Indicators (KPIs)MetricValueDescription💰 Total Revenue₹4,83,900.00Gross sales value generated across all recorded transactions📦 Total Units Sold312 UnitsCumulative volume of products purchased🧾 Total Orders20 OrdersDistinct sales line items logged🛒 Average Order Value (AOV)₹24,195.00Mean revenue generated per transaction🛠️ Implemented Formulas & Key Features.
+🚀 Key Performance Indicators (KPIs)MetricValueDescription💰 Total Revenue₹4,83,900.00
+Gross sales value generated across all recorded transactions📦 Total Units Sold
+312 Units
+Cumulative volume of products purchased🧾 Total Orders20 OrdersDistinct sales line items logged🛒 Average Order Value (AOV)₹24,195.00
+Mean revenue generated per transaction🛠️ Implemented Formulas & Key Features.
 pr 1 project.xlsx
 │
 ├── 📜 Sales Transactions
